@@ -1,6 +1,6 @@
 # Awesome AI Workload Verification
 
-> A curated bibliography of technical research on producing credible, privacy-preserving evidence about how AI hardware and computing infrastructure are used.
+> A curated bibliography of technical research on producing credible, privacy-preserving evidence about how AI computing infrastructure is used.
 
 ![Papers](https://img.shields.io/badge/resources-66-blue)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
