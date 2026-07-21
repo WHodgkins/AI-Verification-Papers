@@ -1,0 +1,1984 @@
+papers:
+- id: reuel-open-problems-technical-ai-governance
+  title: Open Problems in Technical AI Governance
+  authors:
+  - A. Reuel
+  - B. Bucknall
+  - S. Casper
+  - T. Fist
+  - L. Soder
+  - O. Aarne
+  - L. Hammond
+  - L. Ibrahim
+  - A. Chan
+  - P. Wills
+  - M. Anderljung
+  - B. Garfinkel
+  - L. Heim
+  - A. Trask
+  - G. Mukobi
+  - R. Schaeffer
+  - M. Baker
+  - S. Hooker
+  - I. Solaiman
+  - A. S. Luccioni
+  - N. Rajkumar
+  - N. Moës
+  - J. Ladish
+  - D. Bau
+  - P.-A. Bricman
+  - N. Guha
+  - J. Newman
+  - Y. Bengio
+  - T. South
+  - A. Pentland
+  - S. Koyejo
+  - M. J. Kochenderfer
+  - R. Trager
+  year: 2025
+  publication_type: Journal
+  venue_or_publisher: Transactions on Machine Learning Research
+  doi: null
+  arxiv_id: '2407.14981'
+  openreview_id: 1nO4qFMiS0
+  primary_category: Research agendas and surveys
+  secondary_categories:
+  - Technical AI governance
+  keywords:
+  - AI governance
+  - research agenda
+  - monitoring
+  - enforcement
+  - compliance
+  note: Published in TMLR in 2025; A. Reuel and B. Bucknall are listed as equal first authors.
+  url: https://openreview.net/forum?id=1nO4qFMiS0
+- id: baker-verifying-international-agreements-ai
+  title: 'Verifying International Agreements on AI: Six Layers of Verification for Rules on Large-Scale AI Development
+    and Deployment'
+  authors:
+  - M. Baker
+  - G. Kulp
+  - O. Marks
+  - M. Brundage
+  - L. Heim
+  year: 2025
+  publication_type: Working paper
+  venue_or_publisher: RAND Corporation
+  doi: 10.7249/WRA4077-1
+  arxiv_id: '2507.15916'
+  openreview_id: null
+  primary_category: Research agendas and surveys
+  secondary_categories:
+  - International verification
+  keywords:
+  - international agreements
+  - verification
+  - compute governance
+  - monitoring
+  - compliance
+  note: RAND working paper WR-A4077-1; presents six layers of verification.
+  url: https://www.rand.org/pubs/working_papers/WRA4077-1.html
+- id: brundage-frontier-ai-auditing
+  title: 'Frontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading
+    AI Companies'
+  authors:
+  - M. Brundage
+  - N. Dreksler
+  - A. Homewood
+  - S. McGregor
+  - P. Paskov
+  - C. Stosz
+  - G. Sastry
+  - A. F. Cooper
+  - G. Balston
+  - S. Adler
+  - S. Casper
+  - M. Anderljung
+  - G. Werner
+  - S. Mindermann
+  - V. Mavroudis
+  - B. Bucknall
+  - C. Stix
+  - J. Freund
+  - L. Pacchiardi
+  - J. Hernandez-Orallo
+  - M. Pistillo
+  - M. Chen
+  - C. Painter
+  - D. W. Ball
+  - C. O'Keefe
+  - G. Weil
+  - B. Harack
+  - G. Finley
+  - R. Hassan
+  - S. Emmons
+  - C. Foster
+  - A. Reuel
+  - B. Treece
+  - Y. Bengio
+  - D. Reti
+  - R. Bommasani
+  - C. Trout
+  - A. S. Shamsabadi
+  - R. Dattani
+  - A. Weller
+  - R. Trager
+  - J. Sevilla
+  - L. Wagner
+  - L. Soder
+  - K. Ramakrishnan
+  - H. Papadatos
+  - M. Murray
+  - R. Tovcimak
+  year: 2026
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2601.11699
+  arxiv_id: '2601.11699'
+  openreview_id: null
+  primary_category: Research agendas and surveys
+  secondary_categories:
+  - Auditing
+  keywords:
+  - frontier AI
+  - auditing
+  - assurance
+  - safety
+  - security
+  - third-party assessment
+  note: Defines frontier AI auditing and proposes four AI Assurance Levels.
+  url: https://arxiv.org/abs/2601.11699
+- id: harack-verification-international-ai-governance
+  title: Verification for International AI Governance
+  authors:
+  - B. Harack
+  - R. F. Trager
+  - A. Reuel
+  - D. Manheim
+  - M. Brundage
+  - O. Aarne
+  - A. Scher
+  - Y. Pan
+  - J. Xiao
+  - K. Loke
+  - S. N. Adan
+  - G. Bas
+  - N. A. Caputo
+  - J. C. Morse
+  - J. Ahuja
+  - I. Duan
+  - J. Egan
+  - B. Bucknall
+  - B. Rosen
+  - R. Araujo
+  - V. Boulanin
+  - R. Lall
+  - F. Barez
+  - S. Alvira
+  - C. Katzke
+  - A. Atamli
+  - A. Awad
+  year: 2025
+  publication_type: Report
+  venue_or_publisher: Oxford Martin AI Governance Initiative
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Research agendas and surveys
+  secondary_categories:
+  - International verification
+  keywords:
+  - international agreements
+  - verification
+  - data centers
+  - privacy
+  - inspections
+  - governance
+  note: Technical report published in July 2025 on approaches to verifying international AI agreements.
+  url: https://www.oxfordmartin.ox.ac.uk/publications/verification-for-international-ai-governance
+- id: scher-mechanisms-verify-ai-agreements
+  title: Mechanisms to Verify International Agreements About AI Development
+  authors:
+  - A. Scher
+  - L. Thiergart
+  year: 2025
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2506.15867
+  arxiv_id: '2506.15867'
+  openreview_id: null
+  primary_category: Research agendas and surveys
+  secondary_categories:
+  - International verification
+  keywords:
+  - international agreements
+  - verification
+  - inspections
+  - compliance
+  - AI development
+  note: Overview of verification approaches for three example policy goals.
+  url: https://arxiv.org/abs/2506.15867
+- id: ogara-hardware-enabled-verifying-responsible-ai
+  title: Hardware-Enabled Mechanisms for Verifying Responsible AI Development
+  authors:
+  - A. O'Gara
+  - G. Kulp
+  - W. Hodgkins
+  - J. Petrie
+  - V. Immler
+  - A. Aysu
+  - K. Basu
+  - S. Bhasin
+  - S. Picek
+  - A. Srivastava
+  year: 2025
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2505.03742
+  arxiv_id: '2505.03742'
+  openreview_id: null
+  primary_category: Research agendas and surveys
+  secondary_categories:
+  - Hardware verification
+  keywords:
+  - hardware-enabled mechanisms
+  - attestation
+  - compute monitoring
+  - policy enforcement
+  - AI training
+  note: Identifies open questions for hardware-enabled verification of responsible AI development.
+  url: https://arxiv.org/abs/2505.03742
+- id: ansari-hardware-level-governance-ai-compute
+  title: 'Hardware-Level Governance of AI Compute: A Feasibility Taxonomy for Regulatory Compliance and Treaty Verification'
+  authors:
+  - S. Ansari
+  year: 2026
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2604.04712
+  arxiv_id: '2604.04712'
+  openreview_id: null
+  primary_category: Research agendas and surveys
+  secondary_categories:
+  - Hardware governance
+  keywords:
+  - hardware governance
+  - feasibility taxonomy
+  - compliance
+  - treaty verification
+  - threat models
+  note: Proposes and evaluates a taxonomy of 20 hardware-level governance mechanisms.
+  url: https://arxiv.org/abs/2604.04712
+- id: ai-security-forum-rfds
+  title: AI Security RFDs
+  authors:
+  - AI Security Forum
+  year: null
+  publication_type: Project / discussion document
+  venue_or_publisher: AI Security Forum
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Research agendas and surveys
+  secondary_categories:
+  - Research directions
+  keywords:
+  - AI infrastructure
+  - verification
+  - security
+  - research agenda
+  - hardware
+  - attestation
+  note: Living index of requests for discussion on AI security and verification; no publication year is stated on
+    the index page.
+  url: https://projects.aisecurity.forum/
+- id: schnabl-attestable-audits
+  title: 'Attestable Audits: Verifiable AI Safety Benchmarks Using Trusted Execution Environments'
+  authors:
+  - C. Schnabl
+  - D. Hugenroth
+  - B. Marino
+  - A. R. Beresford
+  year: 2025
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2506.23706
+  arxiv_id: '2506.23706'
+  openreview_id: null
+  primary_category: Trusted execution and attestation
+  secondary_categories:
+  - Verifiable audits
+  keywords:
+  - trusted execution environments
+  - remote attestation
+  - AI safety benchmarks
+  - confidential computing
+  - auditing
+  note: Proposes a TEE-based protocol that lets auditors and model providers run verifiable safety benchmarks without
+    revealing proprietary models or benchmark data.
+  url: https://arxiv.org/abs/2506.23706
+- id: dhar-guardain
+  title: 'GuardAIn: Protecting Emerging Generative AI Workloads on Heterogeneous NPU'
+  authors:
+  - A. Dhar
+  - C. Thorens
+  - L. M. Lazier
+  - L. Cavigelli
+  year: 2025
+  publication_type: Conference
+  venue_or_publisher: 2025 IEEE Symposium on Security and Privacy
+  doi: 10.1109/SP61157.2025.00221
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Trusted execution and attestation
+  secondary_categories:
+  - Confidential AI accelerators
+  keywords:
+  - confidential computing
+  - NPU
+  - task attestation
+  - heterogeneous accelerators
+  - model integrity
+  - trusted computing base
+  note: Presents a confidential-computing architecture for discrete NPUs that removes the host system from the trusted
+    computing base and supports task attestation.
+  url: https://www.computer.org/csdl/proceedings-article/sp/2025/223600d823/26hiVLrJZi8
+- id: ding-cove
+  title: 'Cove: Compositional Multi-Party Confidential Workflows for Verifiable AI Governance'
+  authors:
+  - S. Ding
+  - E. Lee
+  - R. Cheng
+  - D. Kang
+  year: 2026
+  publication_type: Workshop
+  venue_or_publisher: ICML 2026 Workshop on Technical AI Governance Research
+  doi: null
+  arxiv_id: null
+  openreview_id: t1dz06Vcee
+  primary_category: Trusted execution and attestation
+  secondary_categories:
+  - Confidential multi-party workflows
+  keywords:
+  - trusted execution environments
+  - confidential computing
+  - multi-party workflows
+  - AI governance
+  - private audits
+  - composability
+  note: Introduces a system for composing confidential workflows among mutually distrusting parties while preserving
+    verifiability of the workflow and its outputs.
+  url: https://openreview.net/forum?id=t1dz06Vcee
+- id: chantasantitam-palm
+  title: 'PAL*M: Property Attestation for Large Generative Models'
+  authors:
+  - P. Chantasantitam
+  - A. I. Caulfield
+  - V. Duddu
+  - L. J. Gunn
+  - N. Asokan
+  year: 2026
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2601.16199
+  arxiv_id: '2601.16199'
+  openreview_id: null
+  primary_category: Trusted execution and attestation
+  secondary_categories:
+  - Model and dataset property attestation
+  keywords:
+  - property attestation
+  - large language models
+  - confidential virtual machines
+  - GPU attestation
+  - dataset integrity
+  - training
+  - inference
+  note: Provides a property-attestation framework for large generative models using confidential VMs, security-aware
+    GPUs, and incremental multiset hashing.
+  url: https://arxiv.org/abs/2601.16199
+- id: tinfoil-proving-model-identity
+  title: How Tinfoil Proves Exactly What Model Is Running
+  authors:
+  - Tinfoil Team
+  year: 2026
+  publication_type: Technical article
+  venue_or_publisher: Tinfoil
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Trusted execution and attestation
+  secondary_categories:
+  - Model identity
+  keywords:
+  - model identity
+  - remote attestation
+  - dm-verity
+  - Merkle trees
+  - confidential inference
+  - model weights
+  note: Explains how Tinfoil binds enclave attestations to model weights loaded after boot by committing to a dm-verity
+    root hash in the measured kernel command line.
+  url: https://tinfoil.sh/blog/2026-02-03-proving-model-identity
+- id: zhao-tees-privacy-preserving-monitoring
+  title: On TEEs for Privacy-Preserving Monitoring in AI Governance
+  authors:
+  - G. Zhao
+  year: 2026
+  publication_type: Technical article
+  venue_or_publisher: Technology Governance and Intelligence
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Trusted execution and attestation
+  secondary_categories:
+  - Governance applications and limitations
+  keywords:
+  - trusted execution environments
+  - privacy-preserving monitoring
+  - AI governance
+  - deployment integrity
+  - hardware auditability
+  - completeness
+  note: Surveys the potential and limitations of TEE-based monitoring for AI governance, including deployment integrity,
+    completeness, software auditability, and hardware roots of trust.
+  url: https://techgov.intelligence.org/blog/on-tees-for-privacy-preserving-monitoring-in-ai-governance
+- id: rinberg-verifying-llm-inference-weight-exfiltration
+  title: Verifying LLM Inference to Detect Model Weight Exfiltration
+  authors:
+  - R. Rinberg
+  - A. Karvonen
+  - A. Hoover
+  - D. Reuter
+  - K. Warr
+  year: 2025
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2511.02620
+  arxiv_id: '2511.02620'
+  openreview_id: null
+  primary_category: Inference verification
+  secondary_categories:
+  - Partial re-execution and sampling
+  keywords:
+  - LLM inference
+  - model weight exfiltration
+  - steganography
+  - partial re-execution
+  - nondeterminism
+  - output verification
+  note: Formalizes model-weight exfiltration as a security game and evaluates inference-verification methods for
+    constraining covert information in model outputs.
+  url: https://arxiv.org/abs/2511.02620
+- id: karvonen-difr
+  title: 'DiFR: Inference Verification Despite Nondeterminism'
+  authors:
+  - A. Karvonen
+  - D. Reuter
+  - R. Rinberg
+  - L. Marks
+  - A. Garriga-Alonso
+  - K. Warr
+  year: 2025
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2511.20621
+  arxiv_id: '2511.20621'
+  openreview_id: null
+  primary_category: Inference verification
+  secondary_categories:
+  - Partial re-execution and sampling
+  keywords:
+  - LLM inference
+  - nondeterminism
+  - Token-DiFR
+  - Activation-DiFR
+  - reference implementation
+  - activation fingerprints
+  note: Introduces token- and activation-based divergence measures for detecting incorrect or modified LLM inference
+    despite benign numerical variation.
+  url: https://arxiv.org/abs/2511.20621
+- id: amodo-example-schemes-high-stakes-ai-agreements
+  title: Example Schemes for Verifying High-Stakes AI Agreements
+  authors:
+  - Amodo Design
+  year: 2026
+  publication_type: Technical article
+  venue_or_publisher: Amodo Design
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Inference verification
+  secondary_categories:
+  - Recomputation schemes
+  keywords:
+  - recomputation
+  - inference verification
+  - TOPLOC
+  - Token-DiFR
+  - proof of learning
+  - training verification
+  - high-stakes agreements
+  note: Outlines prototype recomputation-based schemes for verifying inference and pre-training workloads in cooperative
+    prover–verifier settings.
+  url: https://amododesign.com/notes/2026-06-23-verification-algorithms/
+- id: cankaya-system-overview-low-trust-compute-verification
+  title: A System Overview for Near-Term, Low-Trust AI Compute Verification
+  authors:
+  - N. Cankaya
+  year: 2026
+  publication_type: Working paper
+  venue_or_publisher: Machine Intelligence Research Institute
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Inference verification
+  secondary_categories:
+  - System architecture
+  keywords:
+  - low-trust verification
+  - network taps
+  - evidence capture
+  - recomputation
+  - privacy-preserving monitoring
+  - air-gapped evaluation
+  - AI governance
+  note: Proposes a retrofittable reference architecture separating evidence capture from later evaluation of randomly
+    challenged workload records.
+  url: https://intelligence.org/wp-content/uploads/2026/06/A-system-overview-for-near-term-low-trust-AI-compute-verification.pdf
+- id: petrie-bounding-unexplained-information-exfiltration
+  title: Verifying AI Compute by Bounding Unexplained Information Exfiltration
+  authors:
+  - J. Petrie
+  - Y. Mühlhäuser
+  year: 2026
+  publication_type: Workshop poster
+  venue_or_publisher: ICML 2026 Workshop on Technical AI Governance Research
+  doi: null
+  arxiv_id: null
+  openreview_id: qtgG5HZSsk
+  primary_category: Inference verification
+  secondary_categories:
+  - Information-flow accounting
+  keywords:
+  - AI compute verification
+  - compute governance
+  - hardware-independent protocols
+  - zero-knowledge proofs
+  - cryptographic protocols
+  - confidential inference
+  - challenge-based recomputation
+  - prover isolation
+  note: Proposes hardware-independent verification using prover isolation, cryptographic commitments, and challenge-based
+    recomputation to bound unexplained information in network outputs.
+  url: https://openreview.net/forum?id=qtgG5HZSsk
+- id: cankaya-bit-exact-inference-verification
+  title: Bit-Exact AI Inference Verification Without Performance Tradeoffs
+  authors:
+  - N. Cankaya
+  year: 2026
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2606.00279
+  arxiv_id: '2606.00279'
+  openreview_id: null
+  primary_category: Inference verification
+  secondary_categories:
+  - Deterministic and reproducible inference
+  keywords:
+  - bit-exact inference
+  - GPU determinism
+  - floating-point arithmetic
+  - cross-hardware emulation
+  - recomputation
+  - covert adversaries
+  note: Shows that modern LLM inference can be recomputed bit-for-bit without performance-reducing determinism flags
+    when relevant execution details are available.
+  url: https://arxiv.org/abs/2606.00279
+- id: chen-zkml
+  title: 'ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs'
+  authors:
+  - B.-J. Chen
+  - S. Waiwitlikhit
+  - I. Stoica
+  - D. Kang
+  year: 2024
+  publication_type: Conference
+  venue_or_publisher: 19th European Conference on Computer Systems (EuroSys 2024)
+  doi: 10.1145/3627703.3650088
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Zero-knowledge proofs
+  secondary_categories:
+  - Inference proofs
+  keywords:
+  - zero-knowledge proofs
+  - zkSNARKs
+  - machine learning inference
+  - compiler optimization
+  - model privacy
+  - verifiable audits
+  note: Presents an optimizing system for generating zero-knowledge proofs for realistic machine-learning inference
+    and end-to-end audits.
+  url: https://doi.org/10.1145/3627703.3650088
+- id: waiwitlikhit-trustless-audits
+  title: Trustless Audits without Revealing Data or Models
+  authors:
+  - S. Waiwitlikhit
+  - I. Stoica
+  - Y. Sun
+  - T. Hashimoto
+  - D. Kang
+  year: 2024
+  publication_type: Conference
+  venue_or_publisher: 41st International Conference on Machine Learning (ICML 2024)
+  doi: null
+  arxiv_id: '2404.04500'
+  openreview_id: bgyWXX8HCk
+  primary_category: Zero-knowledge proofs
+  secondary_categories:
+  - Model and dataset audits
+  keywords:
+  - zero-knowledge proofs
+  - trustless audits
+  - dataset commitments
+  - model commitments
+  - SGD
+  - copyright auditing
+  - model privacy
+  note: Introduces ZkAudit, enabling private model and dataset properties to be audited using commitments and zero-knowledge
+    proofs.
+  url: https://proceedings.mlr.press/v235/waiwitlikhit24a.html
+- id: sun-zkllm
+  title: 'zkLLM: Zero Knowledge Proofs for Large Language Models'
+  authors:
+  - H. Sun
+  - J. Li
+  - H. Zhang
+  year: 2024
+  publication_type: Conference
+  venue_or_publisher: 2024 ACM SIGSAC Conference on Computer and Communications Security (CCS 2024)
+  doi: 10.1145/3658644.3670334
+  arxiv_id: '2404.16109'
+  openreview_id: null
+  primary_category: Zero-knowledge proofs
+  secondary_categories:
+  - Large-language-model inference
+  keywords:
+  - zero-knowledge proofs
+  - large language models
+  - zkLLM
+  - inference verification
+  - tlookup
+  - attention
+  - model privacy
+  note: Develops specialized zero-knowledge protocols for large-language-model inference, including non-arithmetic
+    operations and attention.
+  url: https://doi.org/10.1145/3658644.3670334
+- id: south-verifiable-evaluations-zksnarks
+  title: Verifiable evaluations of machine learning models using zkSNARKs
+  authors:
+  - T. South
+  - A. Camuto
+  - S. Jain
+  - S. Nguyen
+  - R. Mahari
+  - C. Paquin
+  - J. Morton
+  - A. Pentland
+  year: 2024
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2402.02675
+  arxiv_id: '2402.02675'
+  openreview_id: null
+  primary_category: Zero-knowledge proofs
+  secondary_categories:
+  - Verifiable model evaluations
+  keywords:
+  - zkSNARKs
+  - model evaluation
+  - evaluation attestations
+  - private model weights
+  - benchmarks
+  - fairness
+  - ONNX
+  note: Demonstrates verifiable evaluation attestations for private models by proving inference and aggregate evaluation
+    results with zkSNARKs.
+  url: https://arxiv.org/abs/2402.02675
+- id: peigne-zero-knowledge-frontier-training
+  title: Zero knowledge verification for frontier AI training is possible
+  authors:
+  - P. Peigné
+  - K. Nguyen
+  - P. Wang
+  year: 2026
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2606.05433
+  arxiv_id: '2606.05433'
+  openreview_id: null
+  primary_category: Zero-knowledge proofs
+  secondary_categories:
+  - Frontier model training
+  keywords:
+  - zero-knowledge proofs
+  - frontier AI training
+  - zkVM
+  - Merkle commitments
+  - BF16
+  - FP32
+  - compute governance
+  - training verification
+  note: Proposes an architecture for zero-knowledge verification of frontier dense pre-training using committed
+    specifications, network observations, and intermediate-computation commitments.
+  url: https://arxiv.org/abs/2606.05433
+- id: reuter-proofs-compartmentalization
+  title: Verifiable constraints on frontier training via proofs of compartmentalization
+  authors:
+  - D. Reuter et al.
+  year: 2026
+  publication_type: Workshop
+  venue_or_publisher: ICML 2026 Workshop on Technical AI Governance Research
+  doi: null
+  arxiv_id: null
+  openreview_id: ajrtHuFw2S
+  primary_category: Zero-knowledge proofs
+  secondary_categories:
+  - Training constraints and compartmentalization
+  keywords:
+  - frontier training
+  - proofs of compartmentalization
+  - zero-knowledge proofs
+  - training constraints
+  - compute governance
+  - cryptographic verification
+  note: Explores cryptographic proofs of compartmentalization as a means of enforcing verifiable constraints on
+    frontier-model training.
+  url: https://openreview.net/forum?id=ajrtHuFw2S
+- id: fang-proof-of-learning-broken
+  title: Proof-of-Learning is Currently More Broken Than You Think
+  authors:
+  - C. Fang
+  - H. Jia
+  - A. Thudi
+  - M. Yaghini
+  - C. A. Choquette-Choo
+  - N. Dullerud
+  - V. Chandrasekaran
+  - N. Papernot
+  year: 2023
+  publication_type: Conference
+  venue_or_publisher: 8th IEEE European Symposium on Security and Privacy (EuroS&P 2023)
+  doi: null
+  arxiv_id: '2208.03567'
+  openreview_id: null
+  primary_category: Proof of learning and training
+  secondary_categories:
+  - Attacks and limitations
+  keywords:
+  - proof of learning
+  - spoofing attacks
+  - checkpoint verification
+  - adversarial robustness
+  - deep learning optimization
+  - training verification
+  note: Demonstrates reproducible, low-cost attacks on proof-of-learning schemes and argues that robust verification
+    depends on unresolved questions about deep-learning optimization.
+  url: https://arxiv.org/abs/2208.03567
+- id: jia-proof-of-learning-definitions-practice
+  title: 'Proof-of-Learning: Definitions and Practice'
+  authors:
+  - H. Jia
+  - M. Yaghini
+  - C. A. Choquette-Choo
+  - N. Dullerud
+  - A. Thudi
+  - V. Chandrasekaran
+  - N. Papernot
+  year: 2021
+  publication_type: Conference
+  venue_or_publisher: 42nd IEEE Symposium on Security and Privacy
+  doi: null
+  arxiv_id: '2103.05633'
+  openreview_id: null
+  primary_category: Proof of learning and training
+  secondary_categories:
+  - Training-compute proofs
+  keywords:
+  - proof of learning
+  - stochastic gradient descent
+  - training checkpoints
+  - model ownership
+  - distributed training
+  - verified computation
+  note: Introduces proof of learning as a way to demonstrate that a party performed the optimization required to
+    obtain a model, using logged training artifacts and checkpoint verification.
+  url: https://ieeexplore.ieee.org/document/9519402/
+- id: shavit-catch-a-chinchilla
+  title: What does it take to catch a Chinchilla? Verifying Rules on Large-Scale Neural Network Training via Compute
+    Monitoring
+  authors:
+  - Y. Shavit
+  year: 2023
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2303.11341
+  arxiv_id: '2303.11341'
+  openreview_id: null
+  primary_category: Proof of learning and training
+  secondary_categories:
+  - Compute monitoring
+  keywords:
+  - large-scale training
+  - compute monitoring
+  - proof of learning
+  - chip supply chain
+  - model-weight snapshots
+  - international agreements
+  - privacy
+  note: Proposes a compute-monitoring architecture combining on-chip weight snapshots, training records, and chip-supply-chain
+    monitoring to verify rules on large-scale neural-network training.
+  url: https://arxiv.org/abs/2303.11341
+- id: choi-tools-verifying-training-data
+  title: Tools for Verifying Neural Models' Training Data
+  authors:
+  - D. Choi
+  - Y. Shavit
+  - D. K. Duvenaud
+  year: 2023
+  publication_type: Conference
+  venue_or_publisher: Advances in Neural Information Processing Systems 36 (NeurIPS 2023)
+  doi: null
+  arxiv_id: '2307.00682'
+  openreview_id: TwLHB8sKme
+  primary_category: Proof of learning and training
+  secondary_categories:
+  - Proof of training data
+  keywords:
+  - proof of training data
+  - data provenance
+  - random-seed commitments
+  - training-data verification
+  - temporary overfitting
+  - model governance
+  note: Introduces proof-of-training-data protocols, including verifiable random-seed commitments and tests based
+    on temporary overfitting to determine whether data were used in training.
+  url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/03e33e1f62e3302b47fe1d38a235921e-Abstract-Conference.html
+- id: baker-off-chip-compute-verification
+  title: Off-Chip Compute Verification
+  authors:
+  - M. Baker
+  year: 2026
+  publication_type: Working document
+  venue_or_publisher: null
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Network and memory telemetry
+  secondary_categories:
+  - Off-chip monitoring architecture
+  keywords:
+  - off-chip verification
+  - network telemetry
+  - memory telemetry
+  - compute monitoring
+  - AI datacenters
+  - privacy-preserving verification
+  note: Working document on verification mechanisms implemented outside AI accelerators; bibliographic metadata
+    is limited on the linked document.
+  url: https://docs.google.com/document/d/10317woljRRoX9Gtcwir1u36ytbA680xfYrazMcuLisA/edit?tab=t.0
+- id: cankaya-secure-network-taps
+  title: The Fundamentals and Feasibility of Secure Network Taps for Verifying AI Datacenter Use
+  authors:
+  - N. Cankaya
+  - A. Friedman
+  - M. Baker
+  year: 2026
+  publication_type: Technical article
+  venue_or_publisher: The Datacenter Lie Detector
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Network and memory telemetry
+  secondary_categories:
+  - Secure network taps
+  keywords:
+  - network taps
+  - AI datacenters
+  - traffic capture
+  - completeness
+  - retrofitting
+  - privacy-preserving monitoring
+  - verification protocol
+  note: Assesses where and how network taps could be deployed to support retrofittable verification of AI-datacenter
+    use.
+  url: https://nacicankaya.substack.com/p/research-note-the-fundamentals-and
+- id: bursuc-software-based-memory-erasure
+  title: 'Software-Based Memory Erasure with relaxed isolation requirements: Extended Version'
+  authors:
+  - S. Bursuc
+  - R. Gil-Pons
+  - S. Mauw
+  - R. Trujillo-Rasua
+  year: 2024
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2401.06626
+  arxiv_id: '2401.06626'
+  openreview_id: null
+  primary_category: Network and memory telemetry
+  secondary_categories:
+  - Proof of secure erasure
+  keywords:
+  - proof of secure erasure
+  - memory erasure
+  - relaxed isolation
+  - challenge-response protocols
+  - external conspirators
+  - communication latency
+  note: Develops software-based proof-of-secure-erasure protocols that remain secure when a prover can communicate
+    with external helpers, provided that communication is sufficiently slow.
+  url: https://arxiv.org/abs/2401.06626
+- id: monfared-timing-memory-telemetry-gpus
+  title: Timing and Memory Telemetry on GPUs for AI Governance
+  authors:
+  - S. K. Monfared
+  - F. Ganji
+  - D. E. Holcomb
+  - S. Tajik
+  year: 2026
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2602.09369
+  arxiv_id: '2602.09369'
+  openreview_id: null
+  primary_category: Network and memory telemetry
+  secondary_categories:
+  - GPU utilization telemetry
+  keywords:
+  - GPU telemetry
+  - timing measurements
+  - memory residency
+  - proof of work
+  - verifiable delay functions
+  - GEMM
+  - VRAM
+  - compute governance
+  note: Evaluates timing- and memory-based measurement primitives for detecting GPU utilization without relying
+    on trusted firmware or vendor counters.
+  url: https://arxiv.org/abs/2602.09369
+- id: petrie-guaranteeable-memory
+  title: 'Guaranteeable Memory: An HBM-Based Chiplet for Verifiable AI Workloads'
+  authors:
+  - J. Petrie
+  year: 2025
+  publication_type: Workshop
+  venue_or_publisher: ICML 2025 Workshop on Technical AI Governance
+  doi: null
+  arxiv_id: null
+  openreview_id: uc79kOv0MV
+  primary_category: Network and memory telemetry
+  secondary_categories:
+  - Memory-enforcement hardware
+  keywords:
+  - HBM
+  - chiplets
+  - verifiable workloads
+  - memory guarantees
+  - trusted hardware
+  - AI accelerators
+  - compute governance
+  note: Proposes an HBM-based chiplet that mediates accelerator access to high-bandwidth memory to support verifiable
+    constraints on AI workloads.
+  url: https://openreview.net/forum?id=uc79kOv0MV
+- id: petrie-flexible-hardware-enabled-guarantees
+  title: Flexible Hardware-Enabled Guarantees for AI Compute
+  authors:
+  - J. Petrie
+  - O. Aarne
+  - N. Ammann
+  - D. Dalrymple
+  year: 2025
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2506.15093
+  arxiv_id: '2506.15093'
+  openreview_id: null
+  primary_category: Network and memory telemetry
+  secondary_categories:
+  - Flexible hardware enforcement
+  keywords:
+  - flexHEG
+  - guarantee processor
+  - secure enclosure
+  - compute monitoring
+  - tamper resistance
+  - model evaluation
+  - training limits
+  - policy enforcement
+  note: Introduces a flexible hardware-enabled guarantees architecture combining an auditable guarantee processor
+    with a secure enclosure around AI accelerators.
+  url: https://arxiv.org/abs/2506.15093
+- id: ma-hardware-mechanisms-dynamically-throttle-ai
+  title: Hardware Mechanisms to Dynamically Throttle AI Performance
+  authors:
+  - H. Ma
+  - L. Malek
+  - J. Forzani
+  - D. Wentzlaff
+  year: 2026
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2607.18069
+  arxiv_id: '2607.18069'
+  openreview_id: null
+  primary_category: Network and memory telemetry
+  secondary_categories:
+  - Hardware performance throttling
+  keywords:
+  - AI performance throttling
+  - GPU microarchitecture
+  - cache way masking
+  - rate limiting
+  - latency insertion
+  - shared memory
+  - hardware safety
+  note: Evaluates low-cost microarchitectural controls for dynamically limiting AI workload performance through
+    GPU memory-system resources.
+  url: https://arxiv.org/abs/2607.18069
+- id: rahman-detecting-hidden-ml-training
+  title: Detecting Hidden ML Training With Zero-Overhead Telemetry
+  authors:
+  - R. Rahman
+  - S. Tajdari
+  year: 2026
+  publication_type: Workshop paper
+  venue_or_publisher: ICML 2026 Workshop on Technical AI Governance Research
+  doi: 10.48550/arXiv.2606.19262
+  arxiv_id: '2606.19262'
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Workload classification
+  keywords:
+  - NVML telemetry
+  - GPU workload classification
+  - hidden training
+  - adversarial evasion
+  - privacy-preserving monitoring
+  - compute governance
+  note: Evaluates adversarially robust classification of training workloads using zero-overhead, content-agnostic
+    GPU telemetry across multiple GPU architectures.
+  url: https://arxiv.org/abs/2606.19262
+- id: cankaya-suppressing-side-channels
+  title: Suppressing Side Channels in an Untrusted Data Center via Retrofitted Defenses
+  authors:
+  - N. Cankaya
+  year: 2026
+  publication_type: Technical article
+  venue_or_publisher: MIRI Technical Governance Team
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Side-channel suppression
+  keywords:
+  - side channels
+  - covert communication
+  - data centers
+  - retrofitted defenses
+  - electromagnetic shielding
+  - jamming
+  - power-line filtering
+  - inspections
+  note: Surveys physical side channels in monitored AI data centers and proposes layered retrofitted defenses intended
+    to bound covert communication bandwidth.
+  url: https://techgov.intelligence.org/blog/suppressing-side-channels-in-an-untrusted-data-center-via-retrofitted-defenses
+- id: chen-detecting-anomalies-hardware-telemetry
+  title: Detecting Anomalies in Machine Learning Infrastructure via Hardware Telemetry
+  authors:
+  - Z. Chen
+  - S. Chien
+  - P. Qian
+  - N. Zilberman
+  year: 2025
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2510.26008
+  arxiv_id: '2510.26008'
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Infrastructure anomaly detection
+  keywords:
+  - hardware telemetry
+  - anomaly detection
+  - machine-learning infrastructure
+  - unsupervised learning
+  - workload monitoring
+  - system optimization
+  note: Introduces System-X, an unsupervised hardware-telemetry pipeline for identifying system and network anomalies
+    without inspecting ML workload contents.
+  url: https://arxiv.org/abs/2510.26008
+- id: gangwal-detecting-covert-cryptomining
+  title: Detecting Covert Cryptomining using HPC
+  authors:
+  - A. Gangwal
+  - S. G. Piazzetta
+  - G. Lain
+  - M. Conti
+  year: 2019
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.1909.00268
+  arxiv_id: '1909.00268'
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Hardware-performance-counter classification
+  keywords:
+  - hardware performance counters
+  - covert cryptomining
+  - workload classification
+  - machine learning
+  - processor telemetry
+  - anomaly detection
+  note: Uses hardware-performance-counter signatures and machine learning to detect covert cryptomining across multiple
+    mining algorithms and processors.
+  url: https://arxiv.org/abs/1909.00268
+- id: latif-empirical-ai-training-power-demand
+  title: Empirical Measurements of AI Training Power Demand on a GPU-Accelerated Node
+  authors:
+  - I. Latif
+  - A. C. Newkirk
+  - M. R. Carbone
+  - A. Munir
+  - Y. Lin
+  - J. Koomey
+  - X. Yu
+  - Z. Dong
+  year: 2024
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2412.08602
+  arxiv_id: '2412.08602'
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Training power measurement
+  keywords:
+  - AI training
+  - power demand
+  - H100
+  - GPU telemetry
+  - energy measurement
+  - workload signatures
+  - data-center capacity planning
+  note: Reports node-level power measurements for ResNet and Llama 2 training on an eight-GPU H100 HGX system.
+  url: https://arxiv.org/abs/2412.08602
+- id: gregersen-input-dependent-power-usage-gpus
+  title: Input-Dependent Power Usage in GPUs
+  authors:
+  - T. Gregersen
+  - P. Patel
+  - E. Choukse
+  year: 2024
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2409.18324
+  arxiv_id: '2409.18324'
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Input-dependent power variation
+  keywords:
+  - GPU power
+  - GEMM
+  - input dependence
+  - data values
+  - bit flips
+  - sparsity
+  - power side channels
+  - workload telemetry
+  note: Shows that changing GEMM input values while holding matrix shapes constant can alter GPU power consumption
+    substantially, with implications for both optimization and telemetry.
+  url: https://arxiv.org/abs/2409.18324
+- id: horvath-barracuda
+  title: 'BarraCUDA: Edge GPUs do Leak DNN Weights'
+  authors:
+  - P. Horvath
+  - L. Chmielewski
+  - L. Weissbart
+  - L. Batina
+  - Y. Yarom
+  year: 2025
+  publication_type: Conference
+  venue_or_publisher: 34th USENIX Security Symposium
+  doi: null
+  arxiv_id: '2312.07783'
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Electromagnetic model extraction
+  keywords:
+  - electromagnetic side channels
+  - GPU security
+  - model-weight extraction
+  - Nvidia Jetson Nano
+  - correlation electromagnetic analysis
+  - convolutional neural networks
+  note: Demonstrates extraction of neural-network parameters from an edge GPU using correlation electromagnetic
+    analysis.
+  url: https://www.usenix.org/conference/usenixsecurity25/presentation/horvath
+- id: horvath-kraken
+  title: 'Kraken: Higher-order EM Side-Channel Attacks on DNNs in Near and Far Field'
+  authors:
+  - P. Horvath
+  - I. Shumailov
+  - L. Chmielewski
+  - L. Batina
+  - Y. Yarom
+  year: 2026
+  publication_type: Conference
+  venue_or_publisher: IEEE Conference on Secure and Trustworthy Machine Learning (SaTML 2026)
+  doi: 10.48550/arXiv.2603.02891
+  arxiv_id: '2603.02891'
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Near- and far-field electromagnetic leakage
+  keywords:
+  - electromagnetic side channels
+  - Tensor Cores
+  - model-weight extraction
+  - near-field attacks
+  - far-field attacks
+  - LLM leakage
+  - correlation power analysis
+  note: Extends GPU electromagnetic side-channel attacks to Tensor Cores and explores model leakage from far-field
+    measurements.
+  url: https://arxiv.org/abs/2603.02891
+- id: ding-moecho
+  title: 'MoEcho: Exploiting Side-Channel Attacks to Compromise User Privacy in Mixture-of-Experts LLMs'
+  authors:
+  - R. Ding
+  - T. Xu
+  - X. Shen
+  - A. A. Ding
+  - Y. Fei
+  year: 2025
+  publication_type: Conference
+  venue_or_publisher: 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS 2025)
+  doi: 10.1145/3719027.3765174
+  arxiv_id: '2508.15036'
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Architectural side channels in mixture-of-experts models
+  keywords:
+  - mixture-of-experts
+  - architectural side channels
+  - prompt inference
+  - response reconstruction
+  - GPU performance counters
+  - cache attacks
+  - user privacy
+  note: Identifies CPU- and GPU-based architectural side channels that reveal routing patterns and sensitive inputs
+    or outputs in mixture-of-experts models.
+  url: https://doi.org/10.1145/3719027.3765174
+- id: gao-deeptheft
+  title: 'DeepTheft: Stealing DNN Model Architectures through Power Side Channel'
+  authors:
+  - Y. Gao
+  - H. Qiu
+  - Z. Zhang
+  - B. Wang
+  - H. Ma
+  - A. Abuadbba
+  - M. Xue
+  - A. Fu
+  - S. Nepal
+  year: 2024
+  publication_type: Conference
+  venue_or_publisher: 2024 IEEE Symposium on Security and Privacy
+  doi: 10.1109/SP54263.2024.00250
+  arxiv_id: '2309.11894'
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Power-based architecture extraction
+  keywords:
+  - power side channels
+  - model architecture extraction
+  - RAPL
+  - MLaaS
+  - CPU frequency
+  - time-series classification
+  - model stealing
+  note: Uses low-rate power and CPU-frequency traces to recover complex DNN architectures and layer hyperparameters
+    in shared computing environments.
+  url: https://doi.org/10.1109/SP54263.2024.00250
+- id: joud-practical-side-channel-extraction
+  title: A Practical Introduction to Side-Channel Extraction of Deep Neural Network Parameters
+  authors:
+  - R. Joud
+  - P.-A. Moëllic
+  - S. Pontié
+  - J.-B. Rigaud
+  year: 2022
+  publication_type: Conference
+  venue_or_publisher: 21st International Conference on Smart Card Research and Advanced Applications (CARDIS 2022)
+  doi: null
+  arxiv_id: '2211.05590'
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Embedded-model parameter extraction
+  keywords:
+  - electromagnetic side channels
+  - parameter extraction
+  - Cortex-M7
+  - IEEE-754
+  - embedded neural networks
+  - correlation analysis
+  - model cloning
+  note: Presents a practical coarse-to-fine electromagnetic side-channel method for extracting floating-point neural-network
+    parameters from a Cortex-M7 microcontroller.
+  url: https://link.springer.com/book/10.1007/978-3-031-25319-5
+- id: amodo-understanding-data-center-power-delivery
+  title: Understanding Data Center Power Delivery
+  authors:
+  - S. Maxwell
+  - C. Heimann
+  - S. Reynolds
+  year: 2026
+  publication_type: Technical article
+  venue_or_publisher: Amodo Design
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Power telemetry and side-channel attacks
+  secondary_categories:
+  - Data-center power monitoring
+  keywords:
+  - data-center power delivery
+  - electrical telemetry
+  - measurement points
+  - side channels
+  - AI security
+  - power infrastructure
+  - monitoring architecture
+  note: Maps AI data-center power-delivery stages, available measurements, and signals that may be relevant to AI-security
+    monitoring.
+  url: https://amododesign.com/data-center-power-delivery/
+- id: obermaier-physical-security-enclosures
+  title: 'The Past, Present, and Future of Physical Security Enclosures: From Battery-Backed Monitoring to PUF-Based
+    Inherent Security and Beyond'
+  authors:
+  - J. Obermaier
+  - V. Immler
+  year: 2018
+  publication_type: Journal article
+  venue_or_publisher: Journal of Hardware and Systems Security
+  doi: 10.1007/s41635-018-0045-2
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Tamper resistance and detection
+  secondary_categories:
+  - Physical security enclosures
+  keywords:
+  - physical security enclosures
+  - tamper resistance
+  - tamper detection
+  - active meshes
+  - battery-backed monitoring
+  - physical unclonable functions
+  - hardware security
+  note: Surveys the evolution of physical security enclosures and discusses PUF-based approaches to inherent tamper
+    evidence and response.
+  url: https://link.springer.com/article/10.1007/s41635-018-0045-2
+- id: ibm-4765-security-policy
+  title: 'IBM 4765 Cryptographic Coprocessor Security Module: Security Policy'
+  authors:
+  - IBM Corporation
+  year: 2012
+  publication_type: Security policy
+  venue_or_publisher: NIST Cryptographic Module Validation Program
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Tamper resistance and detection
+  secondary_categories:
+  - Tamper-responding cryptographic modules
+  keywords:
+  - IBM 4765
+  - cryptographic coprocessor
+  - hardware security module
+  - FIPS 140-2 Level 4
+  - tamper response
+  - environmental sensors
+  - secure erasure
+  note: Documents the security policy and tamper-responsive protections of the IBM 4765 cryptographic coprocessor
+    validated under FIPS 140-2.
+  url: https://csrc.nist.gov/csrc/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp1505.pdf
+- id: mosavirik-impedanceverif
+  title: 'ImpedanceVerif: On-Chip Impedance Sensing for System-Level Tampering Detection'
+  authors:
+  - T. Mosavirik
+  - P. Schaumont
+  - S. Tajik
+  year: 2023
+  publication_type: Journal article
+  venue_or_publisher: IACR Transactions on Cryptographic Hardware and Embedded Systems, 2023(1), 301–325
+  doi: 10.46586/tches.v2023.i1.301-325
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Tamper resistance and detection
+  secondary_categories:
+  - On-chip impedance sensing
+  keywords:
+  - impedance sensing
+  - power-delivery network
+  - system-level tampering
+  - on-chip sensors
+  - hardware implants
+  - probing attacks
+  - physical integrity
+  note: Uses on-chip impedance measurements of a system's power-delivery network to detect physical modifications
+    and system-level tampering.
+  url: https://eprint.iacr.org/2022/946
+- id: staat-anti-tamper-radio
+  title: 'Anti-Tamper Radio: System-Level Tamper Detection for Computing Systems'
+  authors:
+  - P. Staat
+  - J. Tobisch
+  - C. Zenger
+  - C. Paar
+  year: 2022
+  publication_type: Conference
+  venue_or_publisher: 2022 IEEE Symposium on Security and Privacy
+  doi: 10.1109/SP46214.2022.00067
+  arxiv_id: '2112.09014'
+  openreview_id: null
+  primary_category: Tamper resistance and detection
+  secondary_categories:
+  - Radio-frequency tamper sensing
+  keywords:
+  - anti-tamper radio
+  - radio-frequency sensing
+  - physical intrusion
+  - system integrity
+  - server enclosures
+  - probing attacks
+  - environmental robustness
+  note: Detects physical manipulation by monitoring changes in radio-wave propagation inside a protected computing-system
+    enclosure.
+  url: https://ieeexplore.ieee.org/document/9833631/
+- id: sastry-computing-power-governance-ai
+  title: Computing Power and the Governance of Artificial Intelligence
+  authors:
+  - G. Sastry
+  - L. Heim
+  - H. Belfield
+  - M. Anderljung
+  - M. Brundage
+  - J. Hazell
+  - C. O'Keefe
+  - G. K. Hadfield
+  - R. Ngo
+  - K. Pilz
+  - G. Gor
+  - E. Bluemke
+  - S. Shoker
+  - J. Egan
+  - R. F. Trager
+  - S. Avin
+  - A. Weller
+  - Y. Bengio
+  - D. Coyle
+  year: 2024
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2402.08797
+  arxiv_id: '2402.08797'
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - Compute governance
+  keywords:
+  - compute governance
+  - visibility
+  - allocation
+  - enforcement
+  - compute thresholds
+  - supply-chain concentration
+  - privacy
+  - policy risks
+  note: Explains why compute is an attractive object of AI governance and analyzes governance applications, feasibility,
+    risks, and research directions.
+  url: https://arxiv.org/abs/2402.08797
+- id: bengio-international-ai-safety-report-2025
+  title: International AI Safety Report
+  authors:
+  - Y. Bengio
+  - S. Mindermann
+  - D. Privitera
+  - T. Besiroglu
+  - R. Bommasani
+  - S. Casper
+  - Y. Choi
+  - P. Fox
+  - B. Garfinkel
+  - D. Goldfarb
+  - H. Heidari
+  - A. Ho
+  - S. Kapoor
+  - L. Khalatbari
+  - S. Longpre
+  - S. Manning
+  - V. Mavroudis
+  - M. Mazeika
+  - J. Michael
+  - J. Newman
+  - K. Y. Ng
+  - C. T. Okolo
+  - D. Raji
+  - G. Sastry
+  - E. Seger
+  - T. Skeadas
+  - T. South
+  - E. Strubell
+  - F. Tramèr
+  - L. Velasco
+  - N. Wheeler
+  - D. Acemoglu
+  - O. Adekanmbi
+  - D. Dalrymple
+  - T. G. Dietterich
+  - E. W. Felten
+  - P. Fung
+  - P.-O. Gourinchas
+  - F. Heintz
+  - G. Hinton
+  - N. Jennings
+  - A. Krause
+  - S. Leavy
+  - P. Liang
+  - T. Ludermir
+  - V. Marda
+  - H. Margetts
+  - J. McDermid
+  - J. Munga
+  - A. Narayanan
+  - A. Nelson
+  - C. Neppel
+  - A. Oh
+  - G. Ramchurn
+  - S. Russell
+  - M. Schaake
+  - B. Schölkopf
+  - D. Song
+  - A. Soto
+  - L. Tiedrich
+  - G. Varoquaux
+  - A. Yao
+  - Y.-Q. Zhang
+  - F. Albalawi
+  - M. Alserkal
+  - O. Ajala
+  - G. Avrin
+  - C. Busch
+  - A. C. P. de Leon Ferreira de Carvalho
+  - B. Fox
+  - A. S. Gill
+  - A. H. Hatip
+  - J. Heikkilä
+  - G. Jolly
+  - Z. Katzir
+  - H. Kitano
+  - A. Krüger
+  - C. Johnson
+  - S. M. Khan
+  - K. M. Lee
+  - D. V. Ligot
+  - O. Molchanovskyi
+  - A. Monti
+  - N. Mwamanzi
+  - M. Nemer
+  - N. Oliver
+  - J. R. López Portillo
+  - B. Ravindran
+  - R. Pezoa Rivera
+  - H. Riza
+  - C. Rugege
+  - C. Seoighe
+  - J. Sheehan
+  - H. Sheikh
+  - D. Wong
+  - Y. Zeng
+  year: 2025
+  publication_type: Report
+  venue_or_publisher: International AI Safety Report
+  doi: 10.48550/arXiv.2501.17805
+  arxiv_id: '2501.17805'
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - AI risk assessment
+  keywords:
+  - general-purpose AI
+  - capabilities
+  - malicious use
+  - technical failures
+  - systemic risks
+  - risk management
+  - international scientific assessment
+  note: Synthesizes scientific evidence on the capabilities, risks, and safety of advanced AI systems, including
+    risks that motivate monitoring and verification.
+  url: https://internationalaisafetyreport.org/publication/international-ai-safety-report-2025
+- id: anwar-foundational-challenges-assuring-alignment-safety
+  title: Foundational Challenges in Assuring Alignment and Safety of Large Language Models
+  authors:
+  - U. Anwar
+  - A. Saparov
+  - J. Rando
+  - D. Paleka
+  - M. Turpin
+  - P. Hase
+  - E. S. Lubana
+  - E. Jenner
+  - S. Casper
+  - O. Sourbut
+  - B. L. Edelman
+  - Z. Zhang
+  - M. Günther
+  - A. Korinek
+  - J. Hernandez-Orallo
+  - L. Hammond
+  - E. Bigelow
+  - A. Pan
+  - L. Langosco
+  - T. Korbak
+  - H. Zhang
+  - R. Zhong
+  - S. Ó hÉigeartaigh
+  - G. Recchia
+  - G. Corsi
+  - A. Chan
+  - M. Anderljung
+  - L. Edwards
+  - A. Petrov
+  - C. Schroeder de Witt
+  - S. R. Motwan
+  - Y. Bengio
+  - D. Chen
+  - P. H. S. Torr
+  - S. Albanie
+  - T. Maharaj
+  - J. Foerster
+  - F. Tramèr
+  - H. He
+  - A. Kasirzadeh
+  - Y. Choi
+  - D. Krueger
+  year: 2024
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2404.09932
+  arxiv_id: '2404.09932'
+  openreview_id: oVTkOs8Pka
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - AI assurance
+  keywords:
+  - AI assurance
+  - alignment
+  - safety
+  - large language models
+  - monitoring
+  - evaluations
+  - sociotechnical challenges
+  - research agenda
+  note: Identifies 18 foundational challenges and more than 200 research questions for assuring the alignment and
+    safety of large language models.
+  url: https://arxiv.org/abs/2404.09932
+- id: aarne-secure-governable-chips
+  title: 'Secure, Governable Chips: Using On-Chip Mechanisms to Manage National Security Risks from AI & Advanced
+    Computing'
+  authors:
+  - O. Aarne
+  - T. Fist
+  - C. Withers
+  year: 2024
+  publication_type: Report
+  venue_or_publisher: Center for a New American Security
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - On-chip governance
+  keywords:
+  - on-chip governance
+  - remote attestation
+  - operating licenses
+  - export controls
+  - tamper evidence
+  - AI chips
+  - hardware security
+  note: Proposes secure on-chip governance mechanisms for verification, operating licenses, export-control enforcement,
+    and future international agreements.
+  url: https://www.cnas.org/publications/reports/secure-governable-chips
+- id: kulp-hardware-enabled-governance-mechanisms
+  title: 'Hardware-Enabled Governance Mechanisms: Developing Technical Solutions to Exempt Items Otherwise Classified
+    Under Export Control Classification Numbers 3A090 and 4A090'
+  authors:
+  - G. Kulp
+  - D. Gonzales
+  - E. Smith
+  - L. Heim
+  - P. Puri
+  - M. J. D. Vermeer
+  - Z. Winkelman
+  year: 2024
+  publication_type: Working paper
+  venue_or_publisher: RAND Corporation
+  doi: 10.7249/WRA3056-1
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - Export-control enforcement
+  keywords:
+  - hardware-enabled governance mechanisms
+  - export controls
+  - end-use restrictions
+  - high-performance chips
+  - threat models
+  - attack vectors
+  - hardware security
+  note: Develops and assesses hardware-enabled mechanisms that could support targeted end-use restrictions on export-controlled
+    AI chips.
+  url: https://www.rand.org/pubs/working_papers/WRA3056-1.html
+- id: heim-governing-through-cloud
+  title: 'Governing Through the Cloud: The Intermediary Role of Compute Providers in AI Regulation'
+  authors:
+  - L. Heim
+  - T. Fist
+  - J. Egan
+  - S. Huang
+  - S. Zekany
+  - R. Trager
+  - M. Osborne
+  - N. Zilberman
+  year: 2024
+  publication_type: Policy paper
+  venue_or_publisher: Oxford Martin AI Governance Initiative
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - Compute-provider regulation
+  keywords:
+  - compute providers
+  - cloud governance
+  - record keeping
+  - workload classification
+  - compliance verification
+  - enforcement
+  - privacy
+  - internationalization
+  note: Argues that compute providers can act as securers, record keepers, verifiers, and enforcers within AI regulatory
+    systems.
+  url: https://www.oxfordmartin.ox.ac.uk/publications/governing-through-the-cloud-the-intermediary-role-of-compute-providers-in-ai-regulation
+- id: seferis-detecting-compute-structuring
+  title: Detecting Compute Structuring in AI Governance is Likely Feasible
+  authors:
+  - E. Seferis
+  - T. Fist
+  year: 2025
+  publication_type: Workshop paper
+  venue_or_publisher: ICML 2025 Workshop on Technical AI Governance
+  doi: null
+  arxiv_id: null
+  openreview_id: qseqw1sWzz
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - Compute-threshold evasion
+  keywords:
+  - compute structuring
+  - distributed compute
+  - threshold evasion
+  - workload detection
+  - compute governance
+  - AI training
+  - compliance monitoring
+  note: Examines whether developers could evade compute-based rules by splitting training across smaller clusters
+    and assesses potential detection approaches.
+  url: https://openreview.net/forum?id=qseqw1sWzz
+- id: rahman-distributed-training-compute-governance
+  title: Does Distributed Training Undermine Compute Governance?
+  authors:
+  - R. Rahman
+  year: 2026
+  publication_type: Workshop paper
+  venue_or_publisher: ICML 2026 Workshop on Technical AI Governance Research
+  doi: 10.48550/arXiv.2605.29359
+  arxiv_id: '2605.29359'
+  openreview_id: aco6HEbVTA
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - Distributed training and evasion
+  keywords:
+  - distributed training
+  - compute governance
+  - cluster thresholds
+  - evasion
+  - chip tracking
+  - forensic accounting
+  - whistleblowing
+  - memory thresholds
+  note: Evaluates whether geographically or organizationally distributed training could evade compute-governance
+    regimes and outlines possible countermeasures.
+  url: https://arxiv.org/abs/2605.29359
+- id: trager-international-governance-civilian-ai
+  title: 'International Governance of Civilian AI: A Jurisdictional Certification Approach'
+  authors:
+  - R. Trager
+  - B. Harack
+  - A. Reuel
+  - A. Carnegie
+  - L. Heim
+  - L. Ho
+  - S. Kreps
+  - R. Lall
+  - O. Larter
+  - S. Ó hÉigeartaigh
+  - S. Staffell
+  - J. J. Villalobos
+  year: 2023
+  publication_type: Report
+  venue_or_publisher: Centre for the Governance of AI
+  doi: 10.48550/arXiv.2308.15514
+  arxiv_id: '2308.15514'
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - International certification
+  keywords:
+  - international governance
+  - jurisdictional certification
+  - international organization
+  - licensing
+  - standards
+  - trade controls
+  - AI hardware
+  - compliance
+  note: Proposes an international organization that certifies national jurisdictions for compliance with common
+    AI oversight standards.
+  url: https://arxiv.org/abs/2308.15514
+- id: wasil-verification-methods-international-ai-agreements
+  title: Verification methods for international AI agreements
+  authors:
+  - A. R. Wasil
+  - T. Reed
+  - J. W. Miller
+  - P. Barnett
+  year: 2024
+  publication_type: Preprint
+  venue_or_publisher: arXiv
+  doi: 10.48550/arXiv.2408.16074
+  arxiv_id: '2408.16074'
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - International verification methods
+  keywords:
+  - international agreements
+  - national technical means
+  - on-site access
+  - hardware-dependent verification
+  - unauthorized training
+  - data-center detection
+  - evasion
+  note: Surveys ten methods for detecting unauthorized AI training or data centers under international agreements.
+  url: https://arxiv.org/abs/2408.16074
+- id: scher-agreement-prevent-premature-asi
+  title: An International Agreement to Prevent the Premature Creation of Artificial Superintelligence
+  authors:
+  - A. Scher
+  - D. Abecassis
+  - P. Barnett
+  - B. Abeyta
+  year: 2025
+  publication_type: Report
+  venue_or_publisher: Machine Intelligence Research Institute
+  doi: 10.48550/arXiv.2511.10783
+  arxiv_id: '2511.10783'
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - International capability restraint
+  keywords:
+  - artificial superintelligence
+  - international agreement
+  - capability restraint
+  - training limits
+  - chip tracking
+  - workload verification
+  - dangerous AI research
+  note: Proposes a US–China-led international agreement restricting large-scale training and dangerous AI research,
+    backed by chip tracking and verification of chip use.
+  url: https://arxiv.org/abs/2511.10783
+- id: carlsmith-restraining-ai-development-safety
+  title: On restraining AI development for the sake of safety
+  authors:
+  - J. Carlsmith
+  year: 2026
+  publication_type: Essay
+  venue_or_publisher: Joseph Carlsmith
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - Capability restraint
+  keywords:
+  - capability restraint
+  - AI slowdown
+  - AI pause
+  - safety progress
+  - risk evaluation
+  - compute governance
+  - algorithmic governance
+  - international coordination
+  note: Analyzes the case for capability restraint, its practical forms, potential benefits, feasibility, and risks.
+  url: https://joecarlsmith.com/2026/03/19/on-restraining-ai-development-for-the-sake-of-safety/
+- id: chan-components-frontier-ai-slowdown
+  title: Components of a Frontier AI Slowdown
+  authors:
+  - A. Chan
+  year: 2026
+  publication_type: Essay
+  venue_or_publisher: A Strange Attractor
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - Slowdown design
+  keywords:
+  - frontier AI slowdown
+  - capability restraint
+  - policy design
+  - safety research
+  - safeguards
+  - deliberation
+  - scope
+  - governance structure
+  note: 'Distinguishes three design components of a frontier-AI slowdown: its aims, what activities are slowed,
+    and its institutional structure.'
+  url: https://astrangeattractor.substack.com/p/components-of-a-frontier-ai-slowdown

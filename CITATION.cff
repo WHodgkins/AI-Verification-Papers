@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Awesome AI Workload Verification"
+message: "Please cite the repository and the original sources you rely on."
+type: dataset
+authors:
+  - family-names: Hodgkins
+    given-names: William
+license: CC-BY-4.0
+repository-code: "https://github.com/OWNER/awesome-ai-workload-verification"
