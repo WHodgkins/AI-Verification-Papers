@@ -47,7 +47,7 @@ These techniques may support audits, commercial assurance, and compliance with r
 
 These resources provide complementary introductions to the field: broad agendas, policy motivation, systems architectures, and representative verification mechanisms.
 
-- **[Open Problems in Technical AI Governance](https://openreview.net/forum?id=1nO4qFMiS0)** — Reuel et al. (2025). Published in TMLR in 2025; A. Reuel and B. Bucknall are listed as equal first authors. `Journal` `Technical AI governance`
+- **[Open Problems in Technical AI Governance](https://openreview.net/forum?id=1nO4qFMiS0)** — Reuel et al. (2025). Published in TMLR in 2025. `Journal` `Technical AI governance`
 - **[Verifying International Agreements on AI: Six Layers of Verification for Rules on Large-Scale AI Development and Deployment](https://www.rand.org/pubs/working_papers/WRA4077-1.html)** — Baker et al. (2025). RAND working paper WR-A4077-1; presents six layers of verification. `Working paper` `International verification`
 - **[Hardware-Enabled Mechanisms for Verifying Responsible AI Development](https://arxiv.org/abs/2505.03742)** — O'Gara et al. (2025). Identifies open questions for hardware-enabled verification of responsible AI development. `Preprint` `Hardware verification`
 - **[A System Overview for Near-Term, Low-Trust AI Compute Verification](https://intelligence.org/wp-content/uploads/2026/06/A-system-overview-for-near-term-low-trust-AI-compute-verification.pdf)** — Cankaya (2026). Proposes a retrofittable reference architecture separating evidence capture from later evaluation of randomly challenged workload records. `Working paper` `System architecture`
