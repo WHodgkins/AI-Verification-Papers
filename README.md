@@ -1,4 +1,4 @@
-# Awesome AI Workload Verification
+# AI Workload Verification Papers
 
 > A curated bibliography of technical research on producing credible, privacy-preserving evidence about how AI computing infrastructure is used.
 
