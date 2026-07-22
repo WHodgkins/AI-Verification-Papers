@@ -56,6 +56,7 @@ These resources provide complementary introductions to the field: broad agendas,
 
 Broad research agendas, surveys, and system-level overviews of technical verification for AI governance.
 
+- **[AI 2040 Plan A — Verification SITREP](https://amododesign.com/ai-verification/plan-a-sitrep/)** — Design (2026). Assesses the state of engineering work needed for a low-trust international verification regime as described in AI 2040 Plan A, covering network taps, reproducible inference, partial recomputation, physical security, memory erasure, side-channel controls, and other research gaps. `Technical article` `Verification research landscape`
 - **[Frontier AI Auditing: Toward Rigorous Third-Party Assessment of Safety and Security Practices at Leading AI Companies](https://arxiv.org/abs/2601.11699)** — Brundage et al. (2026). Defines frontier AI auditing and proposes four AI Assurance Levels. `Preprint` `Auditing`
 - **[Hardware-Level Governance of AI Compute: A Feasibility Taxonomy for Regulatory Compliance and Treaty Verification](https://arxiv.org/abs/2604.04712)** — Ansari (2026). Proposes and evaluates a taxonomy of 20 hardware-level governance mechanisms. `Preprint` `Hardware governance`
 - **[Hardware-Enabled Mechanisms for Verifying Responsible AI Development](https://arxiv.org/abs/2505.03742)** — O'Gara et al. (2025). Identifies open questions for hardware-enabled verification of responsible AI development. `Preprint` `Hardware verification`
