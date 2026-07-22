@@ -1982,3 +1982,79 @@ papers:
   note: 'Distinguishes three design components of a frontier-AI slowdown: its aims, what activities are slowed,
     and its institutional structure.'
   url: https://astrangeattractor.substack.com/p/components-of-a-frontier-ai-slowdown
+- id: ammann-faster-ai-diffusion-hardware-verification
+  title: Faster AI Diffusion Through Hardware-Based Verification
+  authors:
+  - N. Ammann
+  - D. Dalrymple
+  year: 2025
+  publication_type: Technical article
+  venue_or_publisher: Institute for Progress
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - Hardware-enabled verification
+  keywords:
+  - hardware-enabled verification
+  - AI diffusion
+  - privacy-preserving verification
+  - guarantee processor
+  - tamper resistance
+  - AI hardware
+  - research and development
+  note: Introduces hardware-based, privacy-preserving verification as a way to support wider AI diffusion while
+    limiting misuse, protecting intellectual property, and reducing compliance burdens.
+  url: https://ifp.org/faster-ai-diffusion-through-hardware-based-verification/
+- id: dean-verification-plan
+  title: Verification Plan
+  authors:
+  - R. Dean
+  year: 2026
+  publication_type: Technical article
+  venue_or_publisher: AI 2040
+  doi: null
+  arxiv_id: null
+  openreview_id: null
+  primary_category: Motivations and policy proposals
+  secondary_categories:
+  - International verification regime
+  keywords:
+  - international agreements
+  - AI slowdown
+  - compute declaration
+  - inference-only verification
+  - network taps
+  - partial recomputation
+  - chip tracking
+  - covert compute
+  note: Proposes a phased verification plan for an international AI slowdown agreement, combining compute accounting,
+    mutual declarations, inference-only retrofits, network taps, and partial recomputation.
+  url: https://ai-2040.com/supplements/verification-plan
+- id: wang-nanozk
+  title: 'NanoZK: Privacy-Preserving Verifiable Inference for Large Language Models via Layerwise Zero-Knowledge
+    Proofs'
+  authors:
+  - Z. Wang
+  year: 2026
+  publication_type: Conference
+  venue_or_publisher: International Conference on Information and Communications Security (ICICS 2026)
+  doi: 10.48550/arXiv.2603.18046
+  arxiv_id: '2603.18046'
+  openreview_id: null
+  primary_category: Zero-knowledge proofs
+  secondary_categories:
+  - Large-language-model inference
+  keywords:
+  - zero-knowledge proofs
+  - large language models
+  - verifiable inference
+  - layerwise proofs
+  - model privacy
+  - activation privacy
+  - Halo2
+  - transformer inference
+  note: Introduces a layerwise zero-knowledge proof framework for verifying large-language-model inference while
+    hiding model weights and activations from verifiers.
+  url: https://arxiv.org/abs/2603.18046
