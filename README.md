@@ -149,6 +149,7 @@ Mechanisms for detecting or responding to physical modification of computing sys
 
 Policy analyses and proposed governance regimes that motivate, depend on, or assess technical workload-verification mechanisms.
 
+- **[Verification Plan](https://ai-2040.com/supplements/verification-plan)** — Dean (2026). Proposes a phased verification plan for an international AI slowdown agreement, combining compute accounting, mutual declarations, inference-only retrofits, network taps, and partial recomputation. `Technical article` `International verification regime`
 - **[Components of a Frontier AI Slowdown](https://astrangeattractor.substack.com/p/components-of-a-frontier-ai-slowdown)** — Chan (2026). Distinguishes three design components of a frontier-AI slowdown: its aims, what activities are slowed, and its institutional structure. `Essay` `Slowdown design`
 - **[Does Distributed Training Undermine Compute Governance?](https://arxiv.org/abs/2605.29359)** — Rahman (2026). Evaluates whether geographically or organizationally distributed training could evade compute-governance regimes and outlines possible countermeasures. `Workshop paper` `Distributed training and evasion`
 - **[On restraining AI development for the sake of safety](https://joecarlsmith.com/2026/03/19/on-restraining-ai-development-for-the-sake-of-safety/)** — Carlsmith (2026). Analyzes the case for capability restraint, its practical forms, potential benefits, feasibility, and risks. `Essay` `Capability restraint`
