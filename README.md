@@ -8,7 +8,7 @@
 
 AI workload verification establishes properties of computations performed on AI hardware — for example, whether accelerators are being used for training or inference, which model is running, whether required safeguards are active, or whether information has left an approved environment.
 
-These techniques may support audits, commercial assurance, and compliance with regulations and standards at the national or international level. A recurring objective is to provide useful evidence while protecting sensitive models, data, and operational information.
+These techniques may support audits, commercial assurance, and compliance with regulations and standards at the national or international level. Techniques aiming to support international cooperation often assume a need to secure against sophisticated attackers up to and including nation-states, whereas other work typically has less stringent threat models. A recurring objective across many strands of research is to provide useful evidence to administrators, users, auditors or regulators while protecting sensitive models, data, and operational information.
 
 ## Contents
 
