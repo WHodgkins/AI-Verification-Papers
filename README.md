@@ -92,6 +92,7 @@ Methods for checking that declared inference computations produced observed outp
 
 Cryptographic techniques for proving properties of model inference, evaluation, or training without revealing sensitive models or data.
 
+- **[Proving LLMs at Scale](https://attestable.com/blog/proving-llms-scale)** — Attestable (2026). Describes the performance of Attestable's system for zero-knowledge proofs of inference on open-source models with 30-70B parameters. `Inference proofs` `Large-language-model inference`
 - **[NanoZK: Privacy-Preserving Verifiable Inference for Large Language Models via Layerwise Zero-Knowledge Proofs](https://arxiv.org/abs/2603.18046)** — Wang (2026). Introduces a layerwise zero-knowledge proof framework for verifying large-language-model inference while hiding model weights and activations from verifiers. `Conference` `Large-language-model inference`
 - **[Verifiable constraints on frontier training via proofs of compartmentalization](https://openreview.net/forum?id=ajrtHuFw2S)** — al. (2026). Explores cryptographic proofs of compartmentalization as a means of enforcing verifiable constraints on frontier-model training. `Workshop` `Training constraints and compartmentalization`
 - **[Zero knowledge verification for frontier AI training is possible](https://arxiv.org/abs/2606.05433)** — Peigné et al. (2026). Proposes an architecture for zero-knowledge verification of frontier dense pre-training using committed specifications, network observations, and intermediate-computation commitments. `Preprint` `Frontier model training`
