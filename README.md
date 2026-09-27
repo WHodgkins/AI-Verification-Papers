@@ -125,7 +125,8 @@ Evidence derived from network traffic, accelerator memory, or off-chip monitorin
 ## Power telemetry and side-channel attacks
 
 Workload signals from power and hardware telemetry, together with adversarial research showing privacy and security limitations of such signals.
-
+ 
+- **[Workload Identification with Physical Side Channels for AI Governance](https://arxiv.org/abs/2609.00309)** - Gargiulo and Kulp (2026). Assesses classification training workloads using independently collected power consumption traces not reliant on GPU telemetry. `Workload classification`
 - **[Detecting Hidden ML Training With Zero-Overhead Telemetry](https://arxiv.org/abs/2606.19262)** — Rahman and Tajdari (2026). Evaluates adversarially robust classification of training workloads using zero-overhead, content-agnostic GPU telemetry across multiple GPU architectures. `Workshop paper` `Workload classification`
 - **[Kraken: Higher-order EM Side-Channel Attacks on DNNs in Near and Far Field](https://arxiv.org/abs/2603.02891)** — Horvath et al. (2026). Extends GPU electromagnetic side-channel attacks to Tensor Cores and explores model leakage from far-field measurements. `Conference` `Near- and far-field electromagnetic leakage`
 - **[Suppressing Side Channels in an Untrusted Data Center via Retrofitted Defenses](https://techgov.intelligence.org/blog/suppressing-side-channels-in-an-untrusted-data-center-via-retrofitted-defenses)** — Cankaya (2026). Surveys physical side channels in monitored AI data centers and proposes layered retrofitted defenses intended to bound covert communication bandwidth. `Technical article` `Side-channel suppression`
